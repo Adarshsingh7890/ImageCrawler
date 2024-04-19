@@ -1,0 +1,13 @@
+Please paste your list of test URLs below:
+https://clever-alpaca-2f2818.netlify.app/
+https://www.eulerity.com/
+https://techcrunch.com/
+https://www.boat-lifestyle.com/
+https://www.cnn.com/
+https://www.bbc.com/news
+https://www.reddit.com/?rdt=56104
+https://code.visualstudio.com/
+https://getbootstrap.com/
+https://www.yahoo.com/
+https://www.espn.com/
+https://www.coursera.org/
